@@ -17,3 +17,18 @@
 		</header>
 	</body>
 </html>
+.
+.
+.
+header {
+	background: #BBBBBB;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	text-transform: upercase;
+	color: #0000000;
+}
